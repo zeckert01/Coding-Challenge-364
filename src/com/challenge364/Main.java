@@ -24,14 +24,6 @@ public class Main {
             } catch (IllegalArgumentException e) {
                 System.out.println("Invalid input, please try again");
             }
-//            String[] input = rawInput.split("d");
-//            int numDice = Integer.parseInt(input[0]);
-//            int diceSides = Integer.parseInt(input[1]);
-//            int result = 0;
-//            for (int i = 0; i < numDice; i++) {
-//                result += Math.random() * diceSides + 1;
-//            }
-//            System.out.println(result);
 
         }
     }
